@@ -1,0 +1,6 @@
+
+# Set for wolfbolin
+.idea
+__pycache__
+venv
+
